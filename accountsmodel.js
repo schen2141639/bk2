@@ -2,10 +2,10 @@ const { MongoClient } = require("mongodb");
 
 // Cloud DB
  //const url =
- //"mongodb+srv://dbadmin:dbadmin@cluster0.k6rv9.mongodb.net/myFirstDatabase? //retryWrites=true&w=majority"; 
+ mongodb+srv://dbadmin:dbadmin@cluster0.k6rv9.mongodb.net/myFirstDatabase?/retryWrites=true&w=majority"; 
 
 // Local DB
-  const url = 'mongodb://localhost:27017/';
+//const url = 'mongodb://localhost:27017/';
 
 
 const getAccount = async (username) => {
