@@ -1,0 +1,60 @@
+.leftcontainer
+{
+	background-color: rgba(245, 245, 220, 0.8);
+	border: 10px double #365255;
+	border-radius: 15px;
+	color: #365255;
+	height: 650px;
+	padding-top: 10px;
+	position: absolute;
+	left: 50px;
+	text-align: center;
+	top: 150px;
+	width: 360px;
+}
+
+.rightcontainer
+{
+	background-color: rgba(245, 245, 220, 0.8);
+	border: 10px double #365255;
+	border-radius: 15px;
+	color: #365255;
+	height: 650px;
+	padding-top: 10px;
+	position: absolute;
+	right: 50px;
+	text-align: center;
+	top: 150px;
+	width: 360px;
+}
+#borrow
+
+{
+
+border-color: white;
+
+bottom: 10px; left: 0;
+
+margin: 0 auto; position: absolute; right: 0;
+
+width: 350px;
+
+}
+
+#return
+
+{
+
+border-color: white;
+
+bottom: 10px; left: 0;
+
+margin: 0 auto;
+
+position: absolute;
+
+right: 0;
+
+width: 350px;
+
+}
